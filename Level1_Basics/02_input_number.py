@@ -6,4 +6,6 @@ Time Taken: 1 min
 """
 
 n = int(input("Enter number: "))
+
 print(n)
+
